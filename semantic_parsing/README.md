@@ -1,4 +1,4 @@
-# Reproduce 200 F1 score bug with wrong input
+# Reproduce 200 F1 score bug 
 
 Simply call
 
