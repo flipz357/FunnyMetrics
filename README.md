@@ -1,6 +1,6 @@
-# Examples of metric bugs
+# Examples of funny metrics and metric bugs
 
-## 200 F1 score
+## Achieve 200 F1 score!
 
 ```
 cd semantic_parsing
