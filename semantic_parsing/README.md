@@ -3,7 +3,7 @@
 Simply call
 
 ```
-./reproduce_200f1.sh
+bash reproduce_200f1.sh
 ```
 
 Find more information in this script.
