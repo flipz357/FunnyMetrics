@@ -7,7 +7,7 @@ cd semantic_parsing
 bash reproduce_200f1.sh
 ```
 
-# Macro F1 - Macro F1 = 50
+## Macro F1 - Macro F1 = 50
 
 ```
 cd macrof1s
