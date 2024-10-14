@@ -1,4 +1,4 @@
-# Examples of funny metrics and metric bugs
+# Examples of funny metric behavior
 
 ## Achieve 200 F1 score!
 
