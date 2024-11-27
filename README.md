@@ -9,7 +9,7 @@ cd semantic_parsing
 bash reproduce_200f1.sh
 ```
 
-Another bug is when matching the a grap against itself (which should give 100 F1, but doesn't):
+Another bug is when matching the a graph against itself (which should give 100 F1, but doesn't):
 
 ```
 cd semantic_parsing
