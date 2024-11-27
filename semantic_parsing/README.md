@@ -1,4 +1,6 @@
-# Reproduce 200 F1 score bug 
+# Summary of some evaluation issues in semantic parsing
+
+## Reproduce 200 F1 score bug 
 
 Simply call
 
@@ -7,7 +9,7 @@ bash reproduce_200f1.sh
 ```
 Find more information in this script.
 
-# Reproduce reference match failure (match(x, x) < 100 F1)
+## Reproduce reference match failure (match(x, x) < 100 F1)
 
 Simply call
 
@@ -16,6 +18,6 @@ Simply call
 ```
 Find more information in this script.
 
-# How to fix the bugs and evaluate more properly?
+## How to fix the bugs and evaluate more properly?
 
 A fix of these problemy can be achieved by using a [standardized metric](https://github.com/flipz357/smatchpp)
