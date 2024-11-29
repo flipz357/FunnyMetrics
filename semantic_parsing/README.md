@@ -16,7 +16,7 @@ Simply call
 ```
 ./reproduce_reference_match_failure.sh
 ```
-Find more information in this script.
+Find more information in this script. Credits to Bram Vanroy for providing this interesting example.
 
 ## How to fix the bugs and evaluate more properly?
 
