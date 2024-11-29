@@ -20,4 +20,4 @@ Find more information in this script. Credits to Bram Vanroy for providing this 
 
 ## How to fix the bugs and evaluate more properly?
 
-A fix of these problemy can be achieved by using a [standardized metric](https://github.com/flipz357/smatchpp)
+A fix of these problem can be achieved by using a [standardized metric](https://github.com/flipz357/smatchpp) that uses an optimal solver.
