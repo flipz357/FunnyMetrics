@@ -8,12 +8,8 @@ cd smatch
 git checkout c01a838 >/dev/null 2>/dev/null
 git clean -df >/dev/null 2>/dev/null
 
-# run metric over our arbitrary inputs
-# the more wrong the input the higher the score...
-
 # we set the reference to this amr here
 REF=../test.txt
-
 
 # We run the script 10 times
 for i in {1..10}
